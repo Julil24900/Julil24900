@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Julil24900
+- 👀 I’m writing scripts for Quality of life improvements on linux
